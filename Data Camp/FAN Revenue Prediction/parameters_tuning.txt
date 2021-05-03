@@ -1,0 +1,408 @@
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: None
+mean: 3.710074e-01 (+/- 9.594759e-04)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.297797e-01 (+/- 1.967843e-02)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.959337e-01 (+/- 3.453724e-03)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.696194e-01 (+/- 7.739701e-04)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: None
+mean: 3.880310e-01 (+/- 1.249568e-03)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.463862e-01 (+/- 2.890824e-02)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.078612e-01 (+/- 4.038989e-03)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.876052e-01 (+/- 1.700589e-03)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: None
+mean: 3.994445e-01 (+/- 3.193338e-03)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.195689e-01 (+/- 2.437443e-02)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.110212e-01 (+/- 4.373147e-03)
+===================
+max_features: 5 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.994768e-01 (+/- 2.195771e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: None
+mean: 3.705833e-01 (+/- 7.949954e-04)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.425038e-01 (+/- 2.397684e-02)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.958295e-01 (+/- 4.710082e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.687522e-01 (+/- 5.285774e-04)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: None
+mean: 3.910422e-01 (+/- 4.119130e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.338366e-01 (+/- 3.256209e-02)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.069342e-01 (+/- 2.512481e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.888887e-01 (+/- 2.213214e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: None
+mean: 3.982203e-01 (+/- 3.109357e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.268410e-01 (+/- 2.569857e-02)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.152195e-01 (+/- 5.094566e-03)
+===================
+max_features: 5 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 50
+mean: 4.011291e-01 (+/- 3.165293e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: None
+mean: 3.702387e-01 (+/- 7.617711e-04)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.236026e-01 (+/- 3.167927e-02)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.970964e-01 (+/- 2.725248e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.689567e-01 (+/- 7.582036e-04)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: None
+mean: 3.886860e-01 (+/- 1.830242e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.164698e-01 (+/- 2.382141e-02)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.064721e-01 (+/- 2.189770e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.900542e-01 (+/- 2.790483e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: None
+mean: 4.006386e-01 (+/- 2.834191e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.358240e-01 (+/- 1.378929e-02)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.144663e-01 (+/- 1.816531e-03)
+===================
+max_features: 5 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 50
+mean: 4.007717e-01 (+/- 4.196044e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: None
+mean: 3.702548e-01 (+/- 1.025001e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.452668e-01 (+/- 2.515812e-02)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.949378e-01 (+/- 3.086028e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.689011e-01 (+/- 1.159716e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: None
+mean: 3.889541e-01 (+/- 1.833639e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.365427e-01 (+/- 2.735211e-02)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.085811e-01 (+/- 2.765759e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.919252e-01 (+/- 3.196436e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: None
+mean: 4.004960e-01 (+/- 3.766522e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.352600e-01 (+/- 3.202916e-02)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.140947e-01 (+/- 4.775570e-03)
+===================
+max_features: 5 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: 50
+mean: 4.002406e-01 (+/- 1.940074e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: None
+mean: 3.715042e-01 (+/- 9.272294e-04)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.292192e-01 (+/- 3.624872e-02)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.932906e-01 (+/- 3.464753e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.705883e-01 (+/- 1.038516e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: None
+mean: 3.841387e-01 (+/- 3.275047e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.372541e-01 (+/- 1.571942e-02)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.017655e-01 (+/- 3.165915e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.840054e-01 (+/- 1.609936e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: None
+mean: 3.932110e-01 (+/- 2.707008e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.176579e-01 (+/- 2.205559e-02)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.084549e-01 (+/- 3.654222e-03)
+===================
+max_features: 6 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.941850e-01 (+/- 2.229306e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: None
+mean: 3.710533e-01 (+/- 9.492454e-04)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.201114e-01 (+/- 8.668453e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.931659e-01 (+/- 2.429349e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.699066e-01 (+/- 8.894680e-04)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: None
+mean: 3.848318e-01 (+/- 1.165358e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.258759e-01 (+/- 1.523693e-02)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.030645e-01 (+/- 3.195959e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.855913e-01 (+/- 3.173429e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: None
+mean: 3.965816e-01 (+/- 4.128837e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.045039e-01 (+/- 2.090099e-02)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.092159e-01 (+/- 2.091090e-03)
+===================
+max_features: 6 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.972064e-01 (+/- 2.983869e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: None
+mean: 3.701544e-01 (+/- 7.013724e-04)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.249123e-01 (+/- 2.698235e-02)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.980796e-01 (+/- 2.855102e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.696296e-01 (+/- 8.011783e-04)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: None
+mean: 3.856336e-01 (+/- 1.709859e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.235279e-01 (+/- 2.996449e-02)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.057628e-01 (+/- 2.748621e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.850073e-01 (+/- 1.705371e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: None
+mean: 3.956823e-01 (+/- 2.493343e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.047971e-01 (+/- 2.188008e-02)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.091041e-01 (+/- 3.564848e-03)
+===================
+max_features: 6 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.955755e-01 (+/- 3.062731e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: None
+mean: 3.707453e-01 (+/- 1.339215e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.361013e-01 (+/- 3.020593e-02)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.967931e-01 (+/- 1.812382e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.694992e-01 (+/- 9.271827e-04)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: None
+mean: 3.847405e-01 (+/- 1.546621e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.043203e-01 (+/- 3.045085e-02)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.036627e-01 (+/- 3.205986e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.853072e-01 (+/- 1.562555e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: None
+mean: 3.970745e-01 (+/- 2.915544e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.162850e-01 (+/- 2.755521e-02)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.083850e-01 (+/- 2.674940e-03)
+===================
+max_features: 6 - n_estimators: 10 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.946036e-01 (+/- 1.339719e-03)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: None
+mean: 3.725141e-01 (+/- 6.291770e-04)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.337498e-01 (+/- 3.063240e-02)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.911408e-01 (+/- 5.249455e-03)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.710614e-01 (+/- 7.397975e-04)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: None
+mean: 3.805713e-01 (+/- 7.546818e-04)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.355069e-01 (+/- 2.613844e-02)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.005313e-01 (+/- 4.266428e-03)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.808505e-01 (+/- 1.457577e-03)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: None
+mean: 3.904960e-01 (+/- 2.604713e-03)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.165336e-01 (+/- 2.866753e-02)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.051856e-01 (+/- 2.968460e-03)
+===================
+max_features: 7 - n_estimators: 7 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.899642e-01 (+/- 2.261920e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: None
+mean: 3.718047e-01 (+/- 7.444813e-04)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.205646e-01 (+/- 3.155003e-02)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.937415e-01 (+/- 3.430482e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.702649e-01 (+/- 6.441445e-04)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: None
+mean: 3.822629e-01 (+/- 1.138451e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.317400e-01 (+/- 2.713227e-02)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.008897e-01 (+/- 2.598631e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.819704e-01 (+/- 1.008050e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: None
+mean: 3.908766e-01 (+/- 1.242228e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.082654e-01 (+/- 1.979620e-02)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.066163e-01 (+/- 1.965348e-03)
+===================
+max_features: 7 - n_estimators: 8 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.912531e-01 (+/- 1.975575e-03)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: None
+mean: 3.716542e-01 (+/- 1.333958e-03)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.399198e-01 (+/- 2.490844e-02)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.929576e-01 (+/- 3.564125e-03)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.699158e-01 (+/- 7.800761e-04)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: None
+mean: 3.819780e-01 (+/- 1.373438e-03)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 10
+mean: 6.339119e-01 (+/- 2.292591e-02)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 25
+mean: 4.012507e-01 (+/- 1.903068e-03)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 10 - max_depth: 50
+mean: 3.825346e-01 (+/- 7.915259e-04)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: None
+mean: 3.922634e-01 (+/- 4.496847e-04)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 10
+mean: 6.110660e-01 (+/- 3.153389e-02)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 25
+mean: 4.068142e-01 (+/- 2.454316e-03)
+===================
+max_features: 7 - n_estimators: 9 - min_samples_leaf: 20 - max_depth: 50
+mean: 3.933162e-01 (+/- 3.954324e-03)
+===================
+max_features: 7 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: None
+mean: 3.710646e-01 (+/- 1.070048e-03)
+===================
+max_features: 7 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 10
+mean: 6.410534e-01 (+/- 3.106206e-02)
+===================
+max_features: 7 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 25
+mean: 3.955351e-01 (+/- 4.213551e-03)
+===================
+max_features: 7 - n_estimators: 10 - min_samples_leaf: 1 - max_depth: 50
+mean: 3.697245e-01 (+/- 5.329907e-04)
